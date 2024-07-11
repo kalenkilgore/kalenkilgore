@@ -1,4 +1,4 @@
-# Kalen Kilgore
+# 👋 Kalen Kilgore
 Senior Software Engineer | AI & Machine Learning Specialist
 
 ## About Me
