@@ -21,7 +21,7 @@ I'm a seasoned software engineer with a passion for AI and machine learning tech
 I'm actively seeking opportunities to collaborate on AI and machine learning projects. If you're working on innovative AI solutions, especially in conversational AI, I'd be excited to contribute my expertise.
 
 ## How to Reach Me
-[Insert preferred contact method here]
+kalenkilgore332@icloud.com
 
 ---
 
