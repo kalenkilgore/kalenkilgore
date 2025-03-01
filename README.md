@@ -1,28 +1,22 @@
-# 👋 Kalen Kilgore
-Senior Software Engineer | AI & Machine Learning Specialist
+# Kalen Kilgore
+Senior Software Engineer | AI, Machine Learning, Crypto & Automation
 
-## About Me
-I'm a seasoned software engineer with a passion for AI and machine learning technologies. My expertise lies in developing innovative AI solutions, particularly in the realm of conversational generative AI.
+## Summary
+Experienced software engineer with a proven track record of creating effective solutions across AI, crypto, and automation. I focus on combining strong technical skills with creative approaches to solve complex challenges efficiently.
 
-## Current Interests
-- AI character development integrated with social media
-- Social media data scraping for AI training datasets
-- AI-driven social media engagement optimization
+## Current Projects
+- Developing Telegram bots using Pyrogram and Telethon for automated social media interactions
+- Building AI-driven analytics tools tailored for crypto and blockchain market insights
+- Implementing blockchain solutions to enhance data privacy in SaaS applications
+- Curating robust datasets through social media scraping and browser automation
 
-## Technical Skills
-- Languages: Python, Python3
-- Environments: Conda, Anaconda
-- AI Tools: LLM Studio, Pinecone embeddings, char.ai
-- Cloud Platforms: RunPod.io
-- APIs: Various, including unofficial APIs
-- Other: Websockets, Telethon, Pyrogram, GIMP
+## Technical Expertise
+- **Languages:** Python, JavaScript, Rust, Solidity
+- **Tools:** LLM Studio, Pinecone embeddings, char.ai, secrets module, Selenium, Antidetect Browsers
+- **Platforms:** RunPod.io, Telegram API, Ethereum blockchain
+- **Frameworks/Libraries:** Pyrogram, Telethon, Conda/Anaconda, Websockets, Pandas, Web3.py, Node.js
+- **APIs:** Skilled with both official and unofficial APIs, including integrations with crypto exchanges
 
-## Looking to Collaborate
-I'm actively seeking opportunities to collaborate on AI and machine learning projects. If you're working on innovative AI solutions, especially in conversational AI, I'd be excited to contribute my expertise.
-
-## How to Reach Me
+## Contact
 kalenkilgore332@icloud.com
 
----
-
-I'm always open to discussing new projects and ideas in the AI space. Feel free to reach out if you'd like to connect or collaborate!
