@@ -1,5 +1,5 @@
 # Kalen Kilgore
-Senior Software Engineer | AI, Machine Learning, Crypto & Automation
+Software Engineer | AI, Crypto & Automation
 
 ## Summary
 Experienced software engineer with a proven track record of creating effective solutions across AI, crypto, and automation. I focus on combining strong technical skills with creative approaches to solve complex challenges efficiently.
